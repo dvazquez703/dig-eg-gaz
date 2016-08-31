@@ -1,1 +1,4 @@
 # dig-eg-gaz
+course work for IFS 2116
+
+I am doing week 1905-01-30 to 1905-02-04
